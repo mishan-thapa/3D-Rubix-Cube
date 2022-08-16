@@ -1,4 +1,4 @@
-#  " 3D Rubix cube" college project on computer graphics
+#  " 3D Rubix cube " college project on computer graphics
 
 Mouse events
 
