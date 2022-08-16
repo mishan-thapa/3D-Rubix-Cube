@@ -16,18 +16,18 @@ keyboard events
      selection
        
        x-axis
-          "i" = select face1 
-          "o" = select face2
+          "i" = select face 1 
+          "o" = select face 2
           "p" = select face 3
           
        y-axis
-          "j" = select face1 
-          "k" = select face2
+          "j" = select face 1 
+          "k" = select face 2
           "l" = select face 3
           
        z-axis
-          "b" = select face1 
-          "n" = select face2
+          "b" = select face 1 
+          "n" = select face 2
           "m" = select face 3
          
  rotate/move selected face
